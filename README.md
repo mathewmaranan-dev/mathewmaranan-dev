@@ -18,27 +18,18 @@ My academic projects have focused on analyzing business problems, designing solu
 
 I enjoy working at the intersection of analysis, technology, and decision-making, with particular interests in business analysis, data analytics, reporting, and decision support systems.
 
-## What I Bring
+---
 
-### Business & Requirements Analysis
-- Clarifying business problems and identifying stakeholder needs
-- Defining requirements, workflows, and project objectives
-- Translating business needs into practical system solutions
+## Focus Areas
 
-### Data Analysis & Visualization
-- Exploring and interpreting data using SQL, Power BI, Excel, and Python
-- Identifying trends, patterns, and operational insights
-- Developing dashboards and reports to support decision-making
+- Business & Requirements Analysis
+- Data Analysis & Visualization
+- Database Design
+- Solution Design
+- Project Coordination
+- KPI Reporting & Monitoring
 
-### Solution Design
-- Designing KPI monitoring and reporting processes
-- Structuring data and information flows for analytical systems
-- Supporting decision-support and analytics-driven initiatives
-
-### Project Coordination
-- Planning project activities and tracking progress
-- Coordinating implementation efforts across team members
-- Managing project constraints, priorities, and delivery objectives
+---
 
 ## Technologies
 
@@ -53,34 +44,12 @@ Git • GitHub • Figma
 
 ---
 
-## Projects
-
-### WorkWise: Decision Support System
-**Lead Systems Analyst & Developer** · Workforce analytics and KPI monitoring
-
-- Led requirements analysis; designed workflows, KPI monitoring and reporting processes
-- Coordinated execution, directed implementation decisions and built dashboards
-- Stack: React, Vite, Node.js, Express, PostgreSQL, TypeScript, Python (largely AI-assisted)
-
-**Key lesson:** Client data access was limited, so the ML outputs could not be fully validated. Data readiness has to be confirmed before advanced analytics can be trusted.
-
-### Instacart Market Basket Analysis
-**Analyst** · Exploratory analysis of public grocery transaction data
-
-- Analyzed purchasing trends and product associations with Python
-- Built a Power BI dashboard on basket size, department mix, order timing and product pairings
-- Findings: most baskets hold about 5 to 15 items, produce is the most consistently ordered department, and some pairs (e.g. bananas and avocado) are bought together more than chance suggests
-
-*Exploratory only; recommendations have not been tested in a live business setting.*
-
----
-
 ## Currently Learning
 
-- SQL for analysis and data validation
-- Checking data quality and readiness earlier in a project
-- Reviewing and testing AI-generated code instead of only accepting it
-- Python fundamentals for data analysis
+- Strengthening SQL skills for more effective analysis and reporting
+- Improving data validation and data quality assessment practices
+- Building stronger Python workflows for analytics and automation
+- Developing a more structured approach to reviewing and validating AI-assisted implementations
 
 ---
 
