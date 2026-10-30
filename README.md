@@ -16,7 +16,7 @@ I'm a Business Analytics student who enjoys understanding how technology, data, 
 
 My academic projects have focused on analyzing business problems, designing solutions, defining requirements, and translating ideas into working systems. While I have development experience, I am most interested in the reasoning behind a solution: understanding constraints, evaluating trade-offs, and determining whether the available data can actually support a conclusion.
 
-I enjoy working at the intersection of analysis, technology, and decision-making, with particular interests in business analysis, data analytics, reporting, and decision support systems.
+I enjoy working at the intersection of analysis, technology, and decision-making, with particular interests in business analysis, data analytics, reporting, software development, and translating ideas into practical solutions.
 
 ---
 
