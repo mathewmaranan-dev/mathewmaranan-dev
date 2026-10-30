@@ -1,4 +1,4 @@
-<h1 align="center">Mathew Maranan</h1>
+<img width="4032" height="1383" alt="image" src="https://github.com/user-attachments/assets/c30cae60-06c4-4f9f-a335-e388aba40b8b" /><img width="4032" height="1383" alt="image" src="https://github.com/user-attachments/assets/ddab55d0-8c21-42cf-b632-d06f7e2753d5" /><h1 align="center">Mathew Maranan</h1>
 
 <p align="center">
   Business Analytics student · BSIT at FEU Alabang · Graduating October 2027<br>
@@ -14,24 +14,44 @@
 
 ## About
 
-I work best on the analysis side of a problem: understanding what the business needs, how the process works, and what the data can actually support. Development is a supporting skill. Much of my build experience came from **AI-assisted, project-based learning**, so I'm not presenting myself as a software engineer.
+I'm a Business Analytics student who enjoys understanding how technology, data, and business processes fit together.
+
+My academic projects have focused on analyzing business problems, designing solutions, defining requirements, and translating ideas into working systems. While I have development experience, I am most interested in the reasoning behind a solution: understanding constraints, evaluating trade-offs, and determining whether the available data can actually support a conclusion.
+
+I enjoy working at the intersection of analysis, technology, and decision-making, with particular interests in business analysis, data analytics, reporting, and decision support systems.
 
 ## What I Bring
 
-| | |
-|---|---|
-| **Business & requirements analysis** | Clarifying problems, documenting workflows, defining requirements |
-| **Data analysis & visualization** | SQL, Power BI, Excel, Python for exploration and reporting |
-| **Solution design** | KPI definition, reporting processes, decision-support workflows |
-| **Project coordination** | Scoping, planning, tracking and implementation decisions |
+### Business & Requirements Analysis
+- Clarifying business problems and identifying stakeholder needs
+- Defining requirements, workflows, and project objectives
+- Translating business needs into practical system solutions
 
-## Tools
+### Data Analysis & Visualization
+- Exploring and interpreting data using SQL, Power BI, Excel, and Python
+- Identifying trends, patterns, and operational insights
+- Developing dashboards and reports to support decision-making
 
-| Level | Tools |
-|---|---|
-| **Used regularly** | SQL (MySQL, PostgreSQL) · Power BI · Excel · Database design · Figma |
-| **Working knowledge** | Python · Git/GitHub |
-| **Project-based, AI-assisted** | JavaScript · TypeScript · React · Vite · Node.js · Express |
+### Solution Design
+- Designing KPI monitoring and reporting processes
+- Structuring data and information flows for analytical systems
+- Supporting decision-support and analytics-driven initiatives
+
+### Project Coordination
+- Planning project activities and tracking progress
+- Coordinating implementation efforts across team members
+- Managing project constraints, priorities, and delivery objectives
+
+## Technologies
+
+### Analytics & Data
+SQL • PostgreSQL • MySQL • Power BI • Excel • Python
+
+### Development
+JavaScript • TypeScript • React • Vite • Node.js • Express
+
+### Design & Collaboration
+Git • GitHub • Figma
 
 ---
 
