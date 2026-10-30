@@ -1,5 +1,3 @@
-<img width="4032" height="1383" alt="image" src="https://github.com/user-attachments/assets/c30cae60-06c4-4f9f-a335-e388aba40b8b" /><img width="4032" height="1383" alt="image" src="https://github.com/user-attachments/assets/ddab55d0-8c21-42cf-b632-d06f7e2753d5" /><h1 align="center">Mathew Maranan</h1>
-
 <p align="center">
   Business Analytics student · BSIT at FEU Alabang · Graduating October 2027<br>
   Seeking internships in <b>Business Analysis · Systems Analysis · Data Analysis · BI Analysis</b>
